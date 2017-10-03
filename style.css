@@ -1,1 +1,8 @@
+/*
+Theme Name: Divi Child Theme
+Description: A child theme to house custom coding which modifies the Divi parent theme by Elegant Themes. Includes default line numbers where the code was taken from in the parent theme.
+Author:     meximize-it.de
+Template:   Divi
+*/
+
 @import url("../Divi/style.css");
